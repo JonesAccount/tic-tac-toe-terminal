@@ -1,4 +1,5 @@
-![Screenshot one](sshot_1)
+![Screenshot one](sshot_1,png)
+![Screenshot two](sshot_2,png)
 # tic-tac-toe-terminal
 
 Tic-Tac-Toe – классическая игра крестики-нолики для терминала на Python. Два игрока делают ходы по очереди, цель — собрать три X или O в ряд. Простая и интерактивная консольная игра.
