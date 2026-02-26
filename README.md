@@ -1,2 +1,5 @@
 # tic-tac-toe-terminal
-Terminal-based Tic-Tac-Toe game in Python with two-player mode and real-time board display.
+
+Tic-Tac-Toe – классическая игра крестики-нолики для терминала на Python. Два игрока делают ходы по очереди, цель — собрать три X или O в ряд. Простая и интерактивная консольная игра.
+
+Локализация: русский
